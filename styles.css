@@ -1,0 +1,32 @@
+ body {
+    font-family: sans-serif;
+    color: pink;
+    background-color: blueviolet;
+    text-align: center;
+}
+
+h3,
+#big-boi-letters {
+    font-weight: bolder;
+    font-style: italic;
+    color: pink;
+}
+
+.text-of-pages {
+    text-align: left;
+    font-family: 'Comic Sans MS', 'Comic Sans', cursive, sans-serif;
+}
+
+.bad-colors {
+    font-weight: bolder;
+}
+
+.choco-flair {
+    background-color: rgb(46, 19, 19);
+    color: yellow;
+}
+
+.xmas-flair {
+    background-color: rgb(231, 48, 48);
+    color: rgb(24, 214, 24);
+}
